@@ -9,13 +9,5 @@ A **JavaScript-based** password generator that creates strong, random passwords 
 ✅ One-click **password copy to clipboard**  
 ✅ **Mobile-friendly** design  
 
-## 📸 Screenshots  
-
-### 🔢 Password Generator UI  
-![Password Generator](https://raw.githubusercontent.com/anshullsharma/Password-generator/main/screenshots/password_generator_ui.png)  
-
-### ✅ Strong Password Example  
-![Strong Password](https://raw.githubusercontent.com/anshullsharma/Password-generator/main/screenshots/strong_password.png)  
-
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
